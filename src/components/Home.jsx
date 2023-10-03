@@ -1,4 +1,5 @@
 import React from 'react'
+import Typewriter from 'typewriter-effect';
 import './home.css'
 
 function Home() {
@@ -6,7 +7,13 @@ function Home() {
     <div className='wrapper'>
     <div className='home'>
         
-        <h2>We are ART1906</h2>
+        <h2><Typewriter
+  options={{
+    strings: ['We are Identity Authors', 'We are social media Gurus', 'We are Advertising Wizards', 'We are Web Nerds', 'We are Art1906'],
+    autoStart: true,
+    loop: true,
+  }}
+/></h2>
      
     </div>
     <div className="home__socials">
