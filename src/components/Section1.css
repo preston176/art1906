@@ -1,0 +1,12 @@
+.section1 div {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  max-width: fit-content;
+  text-align: center;
+}
+
+.section1 p {
+  font-size: large;
+}

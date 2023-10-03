@@ -20,7 +20,7 @@ export default function App() {
   const [showBasic, setShowBasic] = useState(false);
 
   return (
-    <MDBNavbar expand='lg' light className='bg-light'>
+    <MDBNavbar expand='lg' light sticky className='bg-light'>
     <MDBContainer>
       <MDBContainer fluid >
         <MDBNavbarBrand href='#'>ART1906_</MDBNavbarBrand>
