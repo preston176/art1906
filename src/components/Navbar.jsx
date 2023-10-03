@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './Navbar.css';
 import {
   MDBContainer,
   MDBNavbar,
@@ -8,7 +9,6 @@ import {
   MDBNavbarNav,
   MDBNavbarItem,
   MDBNavbarLink,
-  MDBBtn,
   MDBDropdown,
   MDBDropdownToggle,
   MDBDropdownMenu,
@@ -20,34 +20,32 @@ export default function App() {
   const [showBasic, setShowBasic] = useState(false);
 
   return (
-    <MDBNavbar expand='lg' light sticky className='bg-light'>
-    <MDBContainer>
-      <MDBContainer fluid >
-        <MDBNavbarBrand href='#'>ART1906_</MDBNavbarBrand>
-        <MDBNavbarToggler
-       
-          aria-controls='navbarSupportedContent'
-          aria-expanded='false'
-          aria-label='Toggle navigation'
-          onClick={() => setShowBasic(!showBasic)}
+    <MDBNavbar expand='lg' sticky light className='custom__nav'>
+      <MDBContainer>
+        <MDBContainer fluid>
+          <MDBNavbarBrand href='#'>ART1906_</MDBNavbarBrand>
+          <MDBNavbarToggler
+            aria-controls='navbarSupportedContent'
+            aria-expanded='false'
+            aria-label='Toggle navigation'
+            onClick={() => setShowBasic(!showBasic)}
           >
-          <MDBIcon icon='bars' fas />
-        </MDBNavbarToggler>
+            <MDBIcon icon='bars' fas />
+          </MDBNavbarToggler>
         </MDBContainer>
         <MDBCollapse navbar show={showBasic}>
           <MDBNavbarNav className='mr-auto mb-2 mb-lg-0'>
             <MDBNavbarItem>
-            <MDBDropdown>
+              <MDBDropdown>
                 <MDBDropdownToggle tag='a' className='nav-link' role='button'>
                   Services
                 </MDBDropdownToggle>
-                <MDBDropdownMenu >
+                <MDBDropdownMenu>
                   <MDBDropdownItem link>Action</MDBDropdownItem>
                   <MDBDropdownItem link>Another action</MDBDropdownItem>
                   <MDBDropdownItem link>Something else here</MDBDropdownItem>
                 </MDBDropdownMenu>
               </MDBDropdown>
-             
             </MDBNavbarItem>
             <MDBNavbarItem>
               <MDBNavbarLink href='#'>Pricing</MDBNavbarLink>
@@ -59,11 +57,10 @@ export default function App() {
               <MDBNavbarLink href='#'>Portfolio</MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='#'>Meet the Team</MDBNavbarLink>
+              <MDBNavbarLink href='#'>Contact</MDBNavbarLink>
             </MDBNavbarItem>
-
             <MDBNavbarItem>
-           
+              <MDBNavbarLink href='#'>Meet the Team</MDBNavbarLink>
             </MDBNavbarItem>
           </MDBNavbarNav>
         </MDBCollapse>
