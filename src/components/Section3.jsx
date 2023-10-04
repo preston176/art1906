@@ -10,16 +10,19 @@ function Section3() {
     <div className="smm">
         <img src="/public/smm.png" alt="" />
         <p>Social Media Marketing</p>
+        <hr />
         <p>We Take Your Social Media Game to the Next Level Across Facebook, Instagram, Twitter, LinkedIn, and Beyond!</p>
     </div>
     <div className="webdev">
         <img src="/public/webdev.png" alt="" />
         <p>Website Development and Maintenance</p>
+        <hr />
         <p>I'm sure that guy you know is good but we are better ...</p>
     </div>
     <div className="seotraffic">
         <img src="/public/seotraffic.png" alt="" />
         <p>SEO and Data Analytics</p>
+        <hr />
         <p>Putting you in the right place at the right time</p>
     </div>
 </div>
