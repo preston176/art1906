@@ -7,15 +7,15 @@ function LatestBlogs() {
         <h3 className='heading'>Latest blogs</h3>
         <h4>Subscribe to out Marketing Blog</h4>
         <div className="blog__container">
-            <div className="">
+            <div className="blog">
                 <img src="" alt="" />
                 <p>Unlocking the Power of the Facebook Pixel</p>
             </div>
-            <div className="">
+            <div className="blog">
             <img src="" alt="" />
                 <p>Unlocking the Power of the Facebook Pixel</p>
             </div>
-            <div className="">
+            <div className="blog">
             <img src="" alt="" />
                 <p>Unlocking the Power of the Facebook Pixel</p>
             </div>

@@ -1,6 +1,10 @@
 .latest__blogs {
   background-color: #b18b72;
   min-height: 100vh;
+  color: black;
+}
+.latest__blogs h4 {
+  text-align: center;
 }
 
 .heading {
@@ -10,5 +14,25 @@
 
 .blog__container {
   display: flex;
+  flex-direction: row;
+}
+
+.blog {
+  display: flex;
   flex-direction: column;
+  margin: auto;
+}
+
+.btn__container {
+  width: 100%;
+
+  text-align: center;
+}
+
+.btn__readmore {
+  text-align: center;
+  background-color: red;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  border: 0.5px solid black;
+  outline: none;
 }
