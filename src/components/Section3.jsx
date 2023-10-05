@@ -28,7 +28,7 @@ function Section3() {
 </div>
 <div className="row2">
 <div className="smm">
-        <img src="/public/smm.png" alt="" />
+        <img src="/public/graphicdesign.png" alt="" />
         <p>Graphic Design</p>
         <hr />
         <p>A flawless combination of intellect, beauty, and innovation.</p>
@@ -40,7 +40,7 @@ function Section3() {
         <p>Your Online salesperson. Working 24/7</p>
     </div>
     <div className="seotraffic">
-        <img src="/public/seotraffic.png" alt="" />
+        <img src="/public/campaignstrategy.png" alt="" />
         <p>Campaign Strategy</p>
         <hr />
         <p>Think twice before hailing the chess champ, 'cause we're quite the experts ourselves.</p>
@@ -48,19 +48,19 @@ function Section3() {
 </div>
 <div className="row3">
 <div className="smm">
-        <img src="/public/smm.png" alt="" />
+        <img src="/public/contentdevelopment.png" alt="" />
         <p>Content Development</p>
         <hr />
         <p>We write, so you don’t have to</p>
     </div>
     <div className="webdev">
-        <img src="/public/webdev.png" alt="" />
+        <img src="/public/mediabuying.png" alt="" />
         <p className=''>Media Buying</p>
         <hr />
         <p>Putting you infront of the right people</p>
     </div>
     <div className="seotraffic">
-        <img src="/public/seotraffic.png" alt="" />
+        <img src="/public/audioandvisualsuite.png" alt="" />
         <p>Audio and Visual Suite </p>
         <hr />
         <p>Tell your story with that perfectly captured moment</p>
