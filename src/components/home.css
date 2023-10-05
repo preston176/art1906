@@ -8,6 +8,7 @@
 .home {
   display: grid;
   height: 50vh;
+
   place-items: center;
 }
 

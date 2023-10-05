@@ -49,21 +49,21 @@ function Section3() {
 <div className="row3">
 <div className="smm">
         <img src="/public/smm.png" alt="" />
-        <p>Social Media Marketing</p>
+        <p>Content Development</p>
         <hr />
-        <p>We Take Your Social Media Game to the Next Level Across Facebook, Instagram, Twitter, LinkedIn, and Beyond!</p>
+        <p>We write, so you don’t have to</p>
     </div>
     <div className="webdev">
         <img src="/public/webdev.png" alt="" />
-        <p className=''>Website Development and Maintenance</p>
+        <p className=''>Media Buying</p>
         <hr />
-        <p>I'm sure that guy you know is good but we are better ...</p>
+        <p>Putting you infront of the right people</p>
     </div>
     <div className="seotraffic">
         <img src="/public/seotraffic.png" alt="" />
-        <p>SEO and Data Analytics</p>
+        <p>Audio and Visual Suite </p>
         <hr />
-        <p>Putting you in the right place at the right time</p>
+        <p>Tell your story with that perfectly captured moment</p>
     </div>
 </div>
     </div>
