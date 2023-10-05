@@ -15,6 +15,7 @@
 }
 .row__wrapper img {
   width: 160px;
+  border-radius: 0.1rem;
 }
 
 .row1 {
