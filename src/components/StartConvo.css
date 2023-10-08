@@ -1,0 +1,24 @@
+.convo__wrapper {
+  padding: 0.9rem;
+  display: flex;
+  background-color: #fafafa;
+  justify-content: space-evenly;
+}
+
+.r__details {
+  display: flex;
+  flex-direction: column;
+}
+.phone__email {
+  display: flex;
+  gap: 2rem;
+}
+.address__social {
+  display: flex;
+  gap: 2rem;
+}
+
+.text {
+  font-weight: bold;
+  color: #b18b72;
+}
