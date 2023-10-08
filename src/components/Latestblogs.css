@@ -1,6 +1,6 @@
 .latest__blogs {
   background-color: #b18b72;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   color: black;
 }
 .latest__blogs h4 {
