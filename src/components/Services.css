@@ -49,10 +49,12 @@
   flex-direction: row;
   width: 100%;
   flex-wrap: wrap;
+  align-items: baseline;
   text-align: center;
 }
 
 .row3 div {
   width: min-content;
   margin: auto;
+  align-items: baseline;
 }

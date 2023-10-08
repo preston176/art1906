@@ -1,31 +1,42 @@
 .wrapper {
-  /* margin: 0 2rem 0 2rem; */
+  position: relative;
   min-height: 100vh;
-  background-color: green;
-  color: black;
 }
 
 .home {
   display: grid;
   height: 50vh;
-
   place-items: center;
+  position: relative;
 }
 
-.home__socials {
-  display: grid;
-  place-items: center;
-  border: 1px solid black;
-  width: fit-content;
-  margin: auto;
-  padding: 1rem;
+.home__video {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.home__consult {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
 }
 
 .home__consult button {
-  display: flex;
   font-size: small;
   background: none;
   color: #fff;
   border: 1px solid white;
-  padding: 1rem 0.8rem 1rem 0.8rem;
+  padding: 1rem 0.8rem;
+  cursor: pointer;
+}
+
+.Typewriter__wrapper {
+  font-size: 4rem;
+  color: white;
+  font-weight: bolder;
 }
