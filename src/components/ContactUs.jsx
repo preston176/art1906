@@ -75,7 +75,7 @@ function ContactUs() {
                     <p>Briefly describe your marketing challenge in more detail.*</p>
                     
                 </div>
-                <textarea className='textarea' name="describe" id="" cols="50" rows="5"></textarea>
+                <textarea className='textarea' name="describe" id="" cols="10" rows="5"></textarea>
             </div>
             <div className="btn__submit__container">
                 <button type='submit'>Request a consultation</button>

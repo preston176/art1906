@@ -99,6 +99,9 @@
 .textarea {
   border: 1px solid black;
   border-radius: 0.4rem;
+  width: 90%;
+  margin: 1rem;
+  resize: none;
 }
 .btn__submit__container {
   margin-top: 0.5rem;

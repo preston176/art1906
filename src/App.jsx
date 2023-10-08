@@ -8,6 +8,7 @@ import Section3 from './components/Section3'
 import LatestBlogs from './components/LatestBlogs'
 import ContactUs from './components/ContactUs'
 import StartConvo from './components/StartConvo'
+import Footer from './components/Footer'
 
 function App() {
   
@@ -25,6 +26,7 @@ function App() {
       <LatestBlogs />
       <ContactUs />
       <StartConvo />
+      <Footer />
     </>
   )
 }

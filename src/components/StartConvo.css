@@ -1,6 +1,7 @@
 .convo__wrapper {
   padding: 0.9rem;
   display: flex;
+  flex-wrap: wrap;
   background-color: #fafafa;
   justify-content: space-evenly;
 }

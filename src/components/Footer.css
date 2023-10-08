@@ -1,0 +1,21 @@
+.footer {
+  background-color: #474747;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+.r__footer ul {
+  list-style-type: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.r__footer a {
+  color: white;
+}
+
+.r__footer a:hover {
+  text-decoration: underline;
+  color: #fafafa;
+  transition: all 1.15s ease-in-out;
+}
