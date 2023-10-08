@@ -55,7 +55,7 @@ export default function App() {
             </MDBNavbarItem>
         
             <MDBNavbarItem>
-              <MDBNavbarLink href='#'>Contact</MDBNavbarLink>
+              <MDBNavbarLink href='#contact'>Contact</MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
               <MDBNavbarLink href='#'>Meet the Team</MDBNavbarLink>

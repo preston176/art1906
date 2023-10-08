@@ -4,7 +4,7 @@ import './Services.css'
 function Section3() {
   return (
     <div className='section3'>
-        <h4>SERVICES</h4>
+        <h4 id='services'>SERVICES</h4>
         <div className="row__wrapper">
 <div className="row1">
     <div className="smm">

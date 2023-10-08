@@ -6,11 +6,13 @@
 
 .heading {
   display: flex;
-  background-color: green;
+  background-color: #fafafa;
   width: 100%;
+  color: black;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
+  flex-direction: row;
+  padding: 0.5rem;
 }
 
 .heading > h3 {
@@ -20,7 +22,7 @@
 }
 
 .form__container {
-  background-color: blue;
+  background-color: #fafafa;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -43,12 +45,12 @@
 .web input,
 .desc input,
 .emp input {
-  width: 70%; /* Adjust the percentage as needed */
+  width: 85%; /* Adjust the percentage as needed */
 }
 
-.checkbox__heading {
+.checkbox__heading p {
   text-align: center;
-  color: white;
+  color: black;
   margin-top: 1rem;
 }
 
@@ -67,16 +69,46 @@
   display: flex;
   text-align: left;
   width: 100%;
-  color: white;
+  color: black;
+  margin: 0.5rem;
   align-items: center;
 }
 
 .checkbox input {
-  margin: 0 0.5rem 0 1rem; /* Adjust the margins as needed */
+  margin: 0 0.5rem 0 5rem; /* Adjust the margins as needed */
+  background-color: #b18b72;
+  accent-color: #b18b72;
+  border: none;
+  outline: none;
+  transform: scale(1);
 }
 
 .checkbox span {
   width: 100%;
   align-items: center;
   text-align: left;
+}
+
+.form__footer p {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  text-align: left;
+  color: black;
+}
+
+.textarea {
+  border: 1px solid black;
+  border-radius: 0.4rem;
+}
+.btn__submit__container {
+  margin-top: 0.5rem;
+}
+
+.btn__submit__container button {
+  background-color: #b18b72;
+  color: white;
+  font-weight: 550;
+  border: none;
+  outline: none;
+  padding: 0.5rem 1rem 0.5rem 1rem;
 }

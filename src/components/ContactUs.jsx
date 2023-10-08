@@ -2,10 +2,10 @@ import './ContactUs.css'
 
 function ContactUs() {
   return (
-    <div className='contact_us'>
+    <div className='contact_us' id='contact'>
         <div className="heading">
         <h3>Contact Us</h3>
-        <span     >We Are Nice</span>
+        <span>We Are Nice</span>
         </div>
 
     <div className="form__container">
@@ -71,6 +71,14 @@ function ContactUs() {
                 <input type="checkbox" name="" id="" />
                 <span htmlFor="">Audio and Visual Suite</span>
                 </div>
+                <div className="form__footer">
+                    <p>Briefly describe your marketing challenge in more detail.*</p>
+                    
+                </div>
+                <textarea className='textarea' name="describe" id="" cols="50" rows="5"></textarea>
+            </div>
+            <div className="btn__submit__container">
+                <button type='submit'>Request a consultation</button>
             </div>
         </form>
     </div>
