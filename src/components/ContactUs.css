@@ -1,0 +1,82 @@
+.contact_us {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  display: flex;
+  background-color: green;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.heading > h3 {
+  text-decoration: underline;
+  margin: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.form__container {
+  background-color: blue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.form__names {
+  padding: 1rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.form__names input {
+  margin: 0 1rem;
+  width: 40%; /* Adjust the percentage as needed */
+  text-align: center;
+}
+
+.web input,
+.desc input,
+.emp input {
+  width: 70%; /* Adjust the percentage as needed */
+}
+
+.checkbox__heading {
+  text-align: center;
+  color: white;
+  margin-top: 1rem;
+}
+
+.checkbox__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.checkbox__container input {
+  width: 20px; /* Adjust the width as needed */
+}
+
+.checkbox {
+  display: flex;
+  text-align: left;
+  width: 100%;
+  color: white;
+  align-items: center;
+}
+
+.checkbox input {
+  margin: 0 0.5rem 0 1rem; /* Adjust the margins as needed */
+}
+
+.checkbox span {
+  width: 100%;
+  align-items: center;
+  text-align: left;
+}
