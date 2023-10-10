@@ -40,3 +40,8 @@
   color: white;
   font-weight: bolder;
 }
+
+.Typewriter__cursor {
+
+  color: #fff;
+}

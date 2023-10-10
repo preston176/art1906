@@ -3,4 +3,22 @@
   margin: 0 15rem;
   background: none;
   box-shadow: none;
+  color: #fff;
+}
+
+.navbar__left a {
+  color: #fff;
+  font-weight: 550;
+  font-size: 1.1rem;
+}
+
+.navbar__left a > span {
+  color: #b18b72;
+}
+
+.navbar__right ul {
+  list-style-type: none;
+  display: flex;
+  gap: 1rem;
+  font-family: "garet", Arial, Helvetica, sans-serif;
 }

@@ -5,10 +5,16 @@ function Navbar() {
   return (
     <div className='navbar'>
       <div className="navbar__left">
-        Left
+        <a href="">Art<span>1906</span>_ <br />CREATIVE SHOPS</a>
       </div>
       <div className="navbar__right">
-        Right
+        <ul>
+          <li>Services</li>
+          <li>Pricing</li>
+          <li>Resoures</li>
+          <li>Contact</li>
+          <li>Meet the Team</li>
+        </ul>
       </div>
     </div>
   )
