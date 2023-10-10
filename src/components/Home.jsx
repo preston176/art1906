@@ -1,10 +1,12 @@
 import React from 'react';
 import Typewriter from 'typewriter-effect';
 import './home.css';
+import Navbar from './Navbar';
 
 function Home() {
   return (
     <div className='wrapper'>
+      <Navbar />
       <video src="/home.mp4" autoPlay loop muted className='home__video' />
       <div className='home'>
         <h2>

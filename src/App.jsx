@@ -15,11 +15,8 @@ function App() {
 
   return (
     <>
-    <Container>
-
-      <Navbar />
-      </Container>
       <Home />
+   
       <Section1 />
       <Section2 />
       <Section3 />

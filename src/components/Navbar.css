@@ -1,4 +1,6 @@
-.custom__nav {
-  background-color: transparent !important;
-  box-shadow: none !important;
+.navbar {
+  justify-content: space-between;
+  margin: 0 15rem;
+  background: none;
+  box-shadow: none;
 }
