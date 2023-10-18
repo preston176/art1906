@@ -1,6 +1,7 @@
 
 import React, { useEffect, useState } from 'react';
 import './Navbar.css';
+import { Link } from 'react-router-dom';
 
 function Navbar() {
   const [scrolling, setScrolling] = useState(false);
@@ -30,7 +31,7 @@ function Navbar() {
       </div>
       <div className="navbar__right">
         <ul>
-          <li><a href="/services">Services</a></li>
+          <li><Link to="/services">Services</Link></li>
           <li>Pricing</li>
           <li>Blog</li>
           <li>Portfolio</li>
