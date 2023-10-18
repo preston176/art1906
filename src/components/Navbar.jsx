@@ -25,9 +25,9 @@ function Navbar() {
   return (
     <div className={`navbar ${scrolling ? 'scrolling' : ''}`}>
       <div className="navbar__left">
-        <a href="">
+       <Link to="/">
           Art<span>1906</span>_ <br />CREATIVE SHOPS
-        </a>
+          </Link>
       </div>
       <div className="navbar__right">
         <ul>
