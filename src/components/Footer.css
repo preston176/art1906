@@ -2,20 +2,33 @@
   background-color: #474747;
   color: white;
   display: flex;
+  flex-direction: row;
+  align-items: center;
   justify-content: space-around;
+  padding: 1rem; /* Add padding for left and right ends */
 }
+
+.l__footer,
+.r__footer {
+  margin-bottom: 0;
+}
+
 .r__footer ul {
   list-style-type: none;
   display: flex;
-  gap: 2rem;
+  gap: 0 1.5rem;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
 }
 
 .r__footer a {
   color: white;
+  text-decoration: none;
 }
 
 .r__footer a:hover {
   text-decoration: underline;
   color: #fafafa;
-  transition: all 1.15s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }

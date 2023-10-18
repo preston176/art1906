@@ -30,9 +30,10 @@ function Navbar() {
       </div>
       <div className="navbar__right">
         <ul>
-          <li>Services</li>
+          <li><a href="/services">Services</a></li>
           <li>Pricing</li>
-          <li>Resources</li>
+          <li>Blog</li>
+          <li>Portfolio</li>
           <li>Contact</li>
           <li>Meet the Team</li>
         </ul>

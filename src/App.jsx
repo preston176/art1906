@@ -9,12 +9,16 @@ import LatestBlogs from './components/LatestBlogs'
 import ContactUs from './components/ContactUs'
 import StartConvo from './components/StartConvo'
 import Footer from './components/Footer'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import ServicesSub from './components/Subdomains/ServicesSub'
 
 function App() {
   
 
   return (
-    <>
+    <BrowserRouter>
+    <Routes>
+      <Route path='/' element={<>
       <Home />
    
       <Section1 />
@@ -24,7 +28,11 @@ function App() {
       <ContactUs />
       <StartConvo />
       <Footer />
-    </>
+    </>}></Route>,
+    <Route path='/services' element={<ServicesSub />}></Route>
+    </Routes>
+    </BrowserRouter>
+    
   )
 }
 

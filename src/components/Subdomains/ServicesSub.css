@@ -1,0 +1,60 @@
+.services__sub {
+  min-height: 50vh;
+  background-color: white;
+  color: black;
+  margin-bottom: 3rem;
+}
+.services__sub__container {
+}
+
+.service {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: auto;
+}
+.service__logo {
+  width: fit-content;
+  align-items: center;
+}
+
+.service__logo img {
+  width: 10rem;
+}
+
+.service__text {
+  align-self: center;
+  max-width: 50%;
+}
+
+.service__text h3 {
+  font-weight: 550;
+  font-size: 18px;
+}
+
+.service__text p {
+  font-size: 18px;
+}
+
+.request__quote {
+  margin-top: 3rem;
+  justify-content: space-evenly;
+  text-align: center;
+}
+.request__quote div {
+  max-width: 58%; /* Adjust the width as needed */
+  width: 100%;
+  text-align: left;
+  margin: auto;
+}
+
+.request__quote p {
+  font-size: 18px; /* Adjust the font size as needed */
+  line-height: 2.1rem;
+  font-weight: 500;
+  color: black;
+}
+
+.request__quote div span {
+  color: #b18b72;
+}
