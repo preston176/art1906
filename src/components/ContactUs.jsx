@@ -49,7 +49,7 @@ function ContactUs() {
                 </div>
                 <div className="checkbox">
                 <input type="checkbox" name="" id="" />
-                <span htmlFor="">Graphic Design</span>
+                <span htmlFor="">Email Marketing</span>
                 </div>
                 <div className="checkbox">
                 <input type="checkbox" name="" id="" />
