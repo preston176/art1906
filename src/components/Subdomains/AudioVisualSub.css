@@ -44,3 +44,31 @@
 .div1 img {
   width: 12rem;
 }
+
+.why__choose h4 {
+  text-align: center;
+  text-decoration: underline;
+  color: #b18b72;
+  font-weight: bold;
+}
+
+.pr {
+  max-width: 50%;
+  margin: auto;
+  color: black;
+}
+
+.custom__quotation h4 {
+  font-weight: bold;
+  color: #b18b72;
+  text-align: center;
+  font-size: larger;
+}
+.paragraph {
+  max-width: 50%;
+  margin: auto;
+}
+
+.paragraph span {
+  color: #b18b72;
+}

@@ -50,6 +50,30 @@ function AudioVisualSub() {
             <p>In today's world, video is the most captivating medium that enables consumers to engage with your brand and gain a deeper understanding of your business. Whether you want to utilize our in-house studio or have us come to you, we're here to help tell your story. Our video production services range from social media shorts to longer commercials and recruitment videos for CTV/streaming ads.</p>
           </div>
         </div>
+        <div className="why__choose">
+          <h4>Why you should choose Art1906 for your Visual-Audio Campaign</h4>
+          <div className="pr">
+            <p>At Art1906, we understand the power of audio-visual communication. Whether you want to promote your brand, educate your audience, or entertain your customers, we have the skills and experience to create a captivating campaign that will deliver your message effectively.
+</p>
+          </div>
+          <div className="pr">
+            <p> We offer a range of services, from concept development and scriptwriting, to production and post-production, to distribution and analytics. We work with you to understand your goals, your budget, and your target market, and we tailor our solutions to suit your needs. We use the latest technology and equipment, and we have a team of talented professionals who are passionate about their work. 
+
+</p>
+          </div>
+          <div className="pr">
+            <p>We are not just a service provider, we are your partner in audio visual communication. Contact us today and find out why you should use us for your audio visual campaign.
+</p>
+          </div>
+        </div>
+
+        <div className="custom__quotation">
+          <h4>*Custom Quotations and Project Pricing Available after Identifying Scope of Work</h4>
+        
+        <div className="paragraph">
+          <p>Send us your custom request for a quotation for any of our solutions by filling in the form on this page or get in touch quick on <span>support@art1906.com</span> or Call/WhatsApp (+254) <span>0757 010655.</span></p>
+        </div>
+        </div>
     </div>
   )
 }
