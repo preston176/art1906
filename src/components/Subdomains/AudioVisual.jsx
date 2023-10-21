@@ -7,7 +7,7 @@ function AudioVisual() {
     <div className='audiovisual__container'>
         <div className="nav">
           <div className="l__side">
-            Art1906_ <br />Creative Shops
+            Art <span>1906</span>_ <br />Creative Shops
           </div>
           <div className="r__side"><ul>
             <li>Services</li>

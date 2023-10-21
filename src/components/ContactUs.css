@@ -21,6 +21,11 @@
   margin-bottom: 1rem;
 }
 
+.heading > h4 {
+  font-size: small;
+  font-weight: bold;
+}
+
 .form__container {
   background-color: white;
   display: flex;
@@ -35,17 +40,24 @@
   display: flex;
   justify-content: center;
 }
+.form__container form {
+  margin-bottom: 2rem;
+}
 
 .form__names input {
   margin: 0 1rem;
   width: 100%; /* Adjust the percentage as needed */
   text-align: center;
-  padding: 1rem 3rem;
+  padding: 0.5rem 4.2rem;
   border: 1px solid black;
   border-radius: 0.5rem;
 }
 .form__names input::placeholder {
   color: black;
+}
+
+.form__names input::after::placeholder {
+  color: gray;
 }
 
 .web input,

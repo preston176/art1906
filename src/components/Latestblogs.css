@@ -1,5 +1,5 @@
 .latest__blogs {
-  background-color: #b18b72;
+  background-color: #474747;
   /* min-height: 100vh; */
   color: black;
 }
@@ -7,19 +7,19 @@
   text-align: center;
   text-decoration: underline;
   font-weight: 500;
+  color: #b18b72;
 }
 .latest__blogs h3 {
-  background-color: #b18b72;
+  background-color: #474747;
   color: #fff;
   font-weight: 500;
 }
 
 .heading {
   text-align: center;
-  background-color: #b18b72;
-  color: white;
+  background-color: #474747;
+  color: white !important;
 }
-
 .blog__container {
   display: flex;
   flex-direction: row;
@@ -30,6 +30,9 @@
   display: flex;
   flex-direction: column;
   margin: auto;
+}
+.blog p {
+  color: white;
 }
 
 .btn__container {

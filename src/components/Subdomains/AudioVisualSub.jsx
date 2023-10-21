@@ -1,5 +1,7 @@
 import React from 'react'
 import "./AudioVisualSub.css"
+import LatestBlogs from "../LatestBlogs"
+import Footer from "../Footer"
 
 function AudioVisualSub() {
   return (
@@ -74,6 +76,88 @@ function AudioVisualSub() {
           <p>Send us your custom request for a quotation for any of our solutions by filling in the form on this page or get in touch quick on <span>support@art1906.com</span> or Call/WhatsApp (+254) <span>0757 010655.</span></p>
         </div>
         </div>
+        <div className='contact_us' id='contact'>
+        <div className="heading">
+        <h4>Your Email Adress Will Not Be Published. Required Fields Are Marked* </h4>
+        </div>
+
+    <div className="form__container">
+        <form action="">
+            <div className="form__names">
+            <input type="text" placeholder='First Name*'/>
+            <input type="text" placeholder='Last Name*'/>
+            </div>
+            <div className="form__names">
+            <input type="text" placeholder='Job title*'/>
+            <input type="email" placeholder='Your Email*'/>
+            </div>
+            <div className="form__names">
+            <input type="text" placeholder='Company name*'/>
+            <input type="text" placeholder='Country/Region'/>
+            </div>
+            <div className="form__names web">
+                <input type="text" placeholder='Website URL*' />
+            </div>
+            <div className="form__names desc">
+                <input type="text" placeholder='What best describes your Industry*' />
+            </div>
+            <div className="form__names emp">
+                <input type="text" placeholder='Number of Employees*' />
+            </div>
+            <div className="checkbox__heading">
+                <p>Which of Art1906's Marketing Services are you most interested in? Check all that apply. *</p>
+            </div>
+            <div className="checkbox__container">
+                <div className="checkbox">
+                <input type="checkbox" name="" id="" />
+                <span htmlFor="">Social Media Marketing</span>
+                </div>
+                <div className="checkbox">
+                <input type="checkbox" name="" id="" />
+                <span htmlFor="">Website Development and Maintenance</span>
+                </div>
+                <div className="checkbox">
+                <input type="checkbox" name="" id="" />
+                <span htmlFor="">SEO and Data Analytics</span>
+                </div>
+                <div className="checkbox">
+                <input type="checkbox" name="" id="" />
+                <span htmlFor="">Email Marketing</span>
+                </div>
+                <div className="checkbox">
+                <input type="checkbox" name="" id="" />
+                <span htmlFor="">Events Digital Marketing Services</span>
+                </div>
+                <div className="checkbox">
+                <input type="checkbox" name="" id="" />
+                <span htmlFor="">Campaign Strategy</span>
+                </div>
+                <div className="checkbox">
+                <input type="checkbox" name="" id="" />
+                <span htmlFor="">Content Development</span>
+                </div>
+                <div className="checkbox">
+                <input type="checkbox" name="" id="" />
+                <span htmlFor="">Media Buying</span>
+                </div>
+                <div className="checkbox">
+                <input type="checkbox" name="" id="" />
+                <span htmlFor="">Audio and Visual Suite</span>
+                </div>
+                <div className="form__footer">
+                    <p>Briefly describe your marketing challenge in more detail.*</p>
+                    
+                </div>
+                <textarea className='textarea' name="describe" id="" cols="10" rows="5"></textarea>
+            </div>
+            <div className="btn__submit__container">
+                <button type='submit'>Request a consultation</button>
+            </div>
+        </form>
+    </div>
+    </div>
+    <LatestBlogs />
+    <Footer />
     </div>
   )
 }

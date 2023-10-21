@@ -5,6 +5,19 @@
 }
 .nav {
   justify-content: space-evenly;
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  width: 100%;
   box-shadow: 1px 1px 1px;
-  background: url();
+  background: url(/nav_visual_background.png);
+  background-position: center;
+  color: white;
+}
+.l__side {
+  font-weight: bolder;
+}
+
+.l__side span {
+  color: #b18b72;
 }
