@@ -1,0 +1,10 @@
+.r__side ul {
+  display: flex;
+  gap: 2rem;
+  list-style-type: none;
+}
+.nav {
+  justify-content: space-evenly;
+  box-shadow: 1px 1px 1px;
+  background: url();
+}

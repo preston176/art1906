@@ -11,6 +11,7 @@ import StartConvo from './components/StartConvo'
 import Footer from './components/Footer'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import ServicesSub from './components/Subdomains/ServicesSub'
+import AudioVisual from './components/Subdomains/AudioVisual'
 
 function App() {
   
@@ -30,6 +31,7 @@ function App() {
       <Footer />
     </>}></Route>,
     <Route path='/services' element={<ServicesSub />}></Route>
+    <Route path="/audiovisual" element={<AudioVisual />}></Route>
     </Routes>
     </BrowserRouter>
     
