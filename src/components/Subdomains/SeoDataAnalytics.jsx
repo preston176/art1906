@@ -1,5 +1,6 @@
 import React from 'react'
 import "./SeoDataAnalytics.css"
+import Footer from '../Footer'
 
 function SeoDataAnalytics() {
   return (
@@ -75,6 +76,116 @@ function SeoDataAnalytics() {
   <div className="request__quote__btn">
     <button>Request Quote</button>
   </div>
+  <hr />
+  <div className="packages__container">
+    <h3>Premium SEO Package( Recommended  [ Ongoing])</h3>
+    <div className="package">
+        <p>All-Inclusive Long-Term SEO Project for Large E-commerce Websites. Enhance your online visibility and user experience with a comprehensive, long-term SEO project. This package includes all SEO services offered, such as on-page, technical, local, product and content audits/SEO. Our services are ideal for large-scale e-commerce websites that aim to rank higher on SERPs, improve webpage loading times, provide keyword-rich content, conduct data analysis, reporting, and general maintenance.</p>
+        <div className="package__price">
+            <p>KSH. 179,000/ Project</p>
+        </div>
+    </div>
+    <div className="sides">
+    <div className="l-side">
+        <div className="">
+        <span><img src="/checkmark.png" alt="" /></span> <h6>1 CMS Platform (Any business model)</h6>
+        </div>
+        
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>No. of website pages (30 Max)</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>No. of online products (50 Products Max)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>SEO Audit, Analytics and Strategy</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>WooCommerce or Magneto Platforms (Ecommerce)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Optimized elements - Headers, footers & Widgets + Pricing, Team Mega Menus (All)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Optimized picture & Image SEO (All)</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>Optimized Campaign Landing pages (5)</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>Optimized Lead Capture Websites Forms (5)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>PDF Embeds ( Unlimited)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Posters, Web banners & Ads</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Google Adsense Integration</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>FAQ Section (All)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Payment Gateway Integration (Yes)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Rich Results (Featured Snippets)</h6></div>
+    </div>
+    <div className="r-side">
+    <div className="">
+        <span><img src="/checkmark.png" alt="" /></span> <h6>Keywords-Rich Blog Posts (2)</h6>
+        </div>
+        
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>Premium Website Analytics Integration</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>Vendor Onboarding Areas & Process</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Premium Website Security Firewall</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>Whatsapp chat functionality</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Google submission and Indexing</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Unlimited Google Map Location</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>Custom Cookie & Privacy Policy</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>Team Page Optimization</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>3 Month Support and Maintenance</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Simple and Variable Products Optimization (Unlimited)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Affiliate Program Creation</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Multi-Vendor Store Environment</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Delivery Time (Project Dependent)</h6></div>
+    </div>
+    </div>
+  </div>
+  <div className="request__quote__btn">
+    <button>Request Quote</button>
+  </div>
+  <hr />
+  <div className="packages__container">
+    <h3>Platinum SEO Package( Recommended  [ Ongoing])</h3>
+    <div className="package">
+        <p>Maximize your website’s potential with our all-inclusive SEO package that covers all aspects of SEO services. This package includes on-page optimization, technical optimization, local SEO, product audits, content audits, SEO, data analysis, reporting, and general maintenance. Our service is perfect for larger websites that aim to improve their search engine ranking, reduce webpage loading times, incorporate keyword-rich content, and maintain their site's overall health.</p>
+        <div className="package__price">
+            <p>CUSTOM QUOTE</p>
+        </div>
+    </div>
+    <div className="sides">
+    <div className="l-side">
+        <div className="">
+        <span><img src="/checkmark.png" alt="" /></span> <h6>1 CMS Platform (Any business model)</h6>
+        </div>
+        
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>No. of website pages (Unlimited)</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>No. of online products (Unlimited)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>SEO Audit, Analytics and Strategy</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>WooCommerce or Magneto Platforms (Ecommerce)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Optimized elements - Headers, footers & Widgets + Pricing, Team Mega Menus (All)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Optimized picture & Image SEO (All)</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>Optimized Campaign Landing pages (5)</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>Optimized Lead Capture Websites Forms (5)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>PDF Embeds ( Unlimited)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Posters, Web banners & Ads</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Google Adsense Integration</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>FAQ Section (All)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Payment Gateway Integration (Yes)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Rich Results (Featured Snippets)</h6></div>
+    </div>
+    <div className="r-side">
+    <div className="">
+        <span><img src="/checkmark.png" alt="" /></span> <h6>Keywords-Rich Blog Posts (2)</h6>
+        </div>
+        
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>Premium Website Analytics Integration</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>Vendor Onboarding Areas & Process</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Premium Website Security Firewall</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>Whatsapp chat functionality</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Google submission, Debugging & Indexing</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Unlimited Google Map Location</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>Custom Cookie & Privacy Policy</h6></div>
+        <div><span><img src="/checkmark.png" alt="" /></span> <h6>Team Page Optimization</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>3 Month Support and Maintenance</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Simple and Variable Products Optimization (Unlimited)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Affiliate Program Creation</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Multi-Vendor Store Environment</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Delivery Time (Project Dependent)</h6></div>
+        <div> <span><img src="/checkmark.png" alt="" /></span> <h6>Superior Optimization ( Technical + On-page SEO) All Pages.</h6></div>
+    </div>
+    </div>
+  </div>
+  <div className="request__quote__btn">
+    <button>Request Quote</button>
+  </div>
+  <Footer />
   </div>
   )
 }

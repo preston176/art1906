@@ -1,5 +1,6 @@
 .seo {
-  background: red;
+  background: url(/nav_seopackages_background.png);
+  background-position: center;
 }
 
 .head__container img {
@@ -91,4 +92,5 @@
   outline: none;
   border: none;
   border-radius: 1.4rem;
+  margin-bottom: 1rem;
 }
