@@ -4,13 +4,15 @@
 }
 
 .head__container img {
-  width: 200px;
+  width: 8rem;
+  margin-right: 2rem;
 }
 
 .head__container {
   align-items: center;
   display: flex;
   margin: auto;
+  padding-bottom: 2rem;
   padding-top: 4rem;
   width: 40%;
   flex-direction: row;
