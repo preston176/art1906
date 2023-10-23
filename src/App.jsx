@@ -22,6 +22,7 @@ function App() {
   return (
     <BrowserRouter>
     <Routes>
+      {/* Homepage */}
       <Route path='/' element={<>
       <Home />
    
@@ -32,12 +33,13 @@ function App() {
       <ContactUs />
       <StartConvo />
       <Footer />
-    </>}></Route>,
+    </>}></Route>
+    {/* Subdomains */}
     <Route path='/services' element={<ServicesSub />}></Route>
     <Route path="/audiovisual" element={<AudioVisual />}></Route>
     <Route path="/seodataanalytics" element={<SeoDataAnalytics />}></Route>
     <Route path="/contentdevelopment" element={<ContentDevelopment />}></Route>
-    <Route path="/contentdev" element={<Contdevsub />}></Route>
+    <Route path="/contentdevpricing" element={<Contdevsub />}></Route>
     </Routes>
     </BrowserRouter>
     
