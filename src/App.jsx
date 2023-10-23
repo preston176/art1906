@@ -14,6 +14,7 @@ import ServicesSub from './components/Subdomains/ServicesSub'
 import AudioVisual from './components/Subdomains/AudioVisual'
 import SeoDataAnalytics from './components/Subdomains/SeoDataAnalytics'
 import ContentDevelopment from './components/Subdomains/ContentDevelopment'
+import Contdevsub from './components/Subdomains/Contdevsub'
 
 function App() {
   
@@ -36,6 +37,7 @@ function App() {
     <Route path="/audiovisual" element={<AudioVisual />}></Route>
     <Route path="/seodataanalytics" element={<SeoDataAnalytics />}></Route>
     <Route path="/contentdevelopment" element={<ContentDevelopment />}></Route>
+    <Route path="/contentdev" element={<Contdevsub />}></Route>
     </Routes>
     </BrowserRouter>
     

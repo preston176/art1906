@@ -1,0 +1,89 @@
+.img img {
+  width: 160px;
+}
+
+.section__container {
+  display: flex;
+  flex-direction: column;
+}
+
+.section {
+  display: flex;
+  flex-direction: row;
+  min-width: 40%;
+  max-width: 60%;
+  margin: auto;
+  align-items: center;
+  gap: 1.2rem;
+}
+
+.section h5 {
+  font-weight: bold;
+}
+
+.heading__container {
+  color: #b18b72;
+
+  text-align: center;
+}
+
+.heading__container h3 {
+  font-weight: 550;
+}
+
+.heading__container img {
+  width: 320px;
+  margin-top: 5rem;
+}
+
+.cont__text {
+  min-width: 40%;
+  max-width: 60%;
+  margin: auto;
+  margin-bottom: 2rem;
+  text-align: center;
+  font-style: italic;
+}
+
+.cont__text2 {
+  min-width: 40%;
+  max-width: 60%;
+  margin: auto;
+  text-align: center;
+  font-style: italic;
+}
+
+.why h4 {
+  text-align: center;
+  text-decoration: underline;
+  color: #b18b72;
+  font-weight: bold;
+}
+
+.why p {
+  max-width: 60%;
+  min-width: 40%;
+  margin: auto;
+  text-align: left;
+}
+
+.contdev {
+  max-width: 60%;
+  min-width: 40%;
+  margin: auto;
+}
+
+.cont_dev__paragraph {
+  max-width: 60%;
+  min-width: 40%;
+}
+
+.heading__cont_dev {
+  width: 50%;
+  margin: auto;
+}
+
+.heading__cont_dev h4 {
+  font-size: 1rem;
+  text-align: center;
+}
