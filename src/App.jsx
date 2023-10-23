@@ -13,6 +13,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import ServicesSub from './components/Subdomains/ServicesSub'
 import AudioVisual from './components/Subdomains/AudioVisual'
 import SeoDataAnalytics from './components/Subdomains/SeoDataAnalytics'
+import ContentDevelopment from './components/Subdomains/ContentDevelopment'
 
 function App() {
   
@@ -34,6 +35,7 @@ function App() {
     <Route path='/services' element={<ServicesSub />}></Route>
     <Route path="/audiovisual" element={<AudioVisual />}></Route>
     <Route path="/seodataanalytics" element={<SeoDataAnalytics />}></Route>
+    <Route path="/contentdevelopment" element={<ContentDevelopment />}></Route>
     </Routes>
     </BrowserRouter>
     

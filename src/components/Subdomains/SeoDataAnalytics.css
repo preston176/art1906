@@ -50,11 +50,15 @@
   text-align: center;
 }
 
+
+
 .package__price p {
   padding: 2rem 0 2rem 0;
 }
 .sides {
   display: flex;
+  gap: 4rem;
+  justify-content: space-between;
 }
 
 .l-side {

@@ -1,0 +1,28 @@
+.text {
+  color: black;
+}
+
+.text ul {
+  text-align: left;
+  font-style: normal;
+}
+.custom__quot__content {
+  color: #b18b72;
+}
+
+.cont_dev__paragraph {
+  color: black;
+}
+
+.cont_dev__paragraph span {
+  color: #b18b72;
+}
+
+.heading__cont_dev h4 {
+  font-style: normal;
+  font-size: normal;
+}
+
+.content .checkbox__heading > p {
+  font-style: normal !important;
+}
