@@ -1,0 +1,9 @@
+.smm_side h6 {
+  width: 100% !important;
+  text-align: left;
+  align-items: center;
+}
+
+.smm_side {
+  max-width: 100%;
+}

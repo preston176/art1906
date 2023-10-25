@@ -1,7 +1,8 @@
 ## Links to the designs
 
-1. [Social media marketing subdomain](https://www.canva.com/design/DAFwNtKjY5M/SpH8xQTCHTpTtTstjyVwtw/edit?utm_content=DAFwNtKjY5M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-2. [Social media marketing pricing](https://www.canva.com/design/DAFwx6VYrU8/m9RKOC1IZuHgiJixEgRPGA/edit?utm_content=DAFwx6VYrU8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+1. [Social media marketing subdomain](https://www.canva.com/design/DAFwNtKjY5M/SpH8xQTCHTpTtTstjyVwtw/edit?utm_content=DAFwNtKjY5M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
+
+2. [Social media marketing pricing](https://www.canva.com/design/DAFwx6VYrU8/m9RKOC1IZuHgiJixEgRPGA/edit?utm_content=DAFwx6VYrU8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done except nav
 
 3. [Quote page](https://www.canva.com/design/DAFxbL4j8Ng/hxKioGYVg4cd2sLyGb0vRw/edit?utm_content=DAFxbL4j8Ng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 

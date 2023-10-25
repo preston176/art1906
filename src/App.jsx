@@ -18,6 +18,7 @@ import Contdevsub from './components/Subdomains/Contdevsub'
 import CampaignStrategy from './components/Subdomains/CampaignStrategy'
 import RequestAQuote from './components/Subdomains/RequestAQuote'
 import SocialMediaMarketing from './components/Subdomains/SocialMediaMarketing'
+import SocialMediaMarketingPricing from './components/Subdomains/SocialMediaMarketingPricing'
 
 function App() {
   
@@ -40,6 +41,7 @@ function App() {
     {/* Subdomains */}
     <Route path='/requestaquote' element={<RequestAQuote />}></Route>
     <Route path='/socialmediamarketing' element={<SocialMediaMarketing />}></Route>
+    <Route path='/pricing/socialmediamarketing' element={<SocialMediaMarketingPricing />}></Route>
     <Route path="/audiovisual" element={<AudioVisual />}></Route>
     <Route path="/seodataanalytics" element={<SeoDataAnalytics />}></Route>
     <Route path="/contentdevelopment" element={<ContentDevelopment />}></Route>
