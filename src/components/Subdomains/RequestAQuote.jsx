@@ -2,10 +2,10 @@ import React from 'react'
 import Navbar from "../Navbar"
 import Footer from "../Footer"
 import ServicesHome from './ServicesHome'
-import "./ServicesSub.css"
+import "./RequestAQuote.css"
 import "../ContactUs.css"
 
-function ServicesSub() {
+function RequestAQuote() {
   return (
     <div>
         <Navbar />
@@ -154,4 +154,4 @@ function ServicesSub() {
   )
 }
 
-export default ServicesSub
+export default RequestAQuote

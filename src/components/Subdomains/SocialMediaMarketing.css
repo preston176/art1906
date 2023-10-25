@@ -1,0 +1,37 @@
+.why__smm {
+  min-width: 40%;
+  max-width: 60%;
+  margin: auto;
+  color: black;
+}
+
+.why__smm h4 {
+  color: #b18b72;
+  text-decoration: underline;
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.why__smm h6 {
+  font-weight: bold;
+}
+
+.view__packages h6 {
+  font-weight: bold;
+  color: #b18b72;
+  text-decoration: underline;
+  text-align: center;
+  padding: 2rem 0;
+  font-size: 1.5rem;
+}
+
+.view__packages h6:hover {
+  cursor: pointer;
+}
+
+.smm {
+  background: url(/smm__nav.png);
+  background-position: center;
+  width: 100%;
+  background-repeat: repeat-x;
+}
