@@ -4,7 +4,7 @@
 
 2. [Social media marketing pricing](https://www.canva.com/design/DAFwx6VYrU8/m9RKOC1IZuHgiJixEgRPGA/edit?utm_content=DAFwx6VYrU8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done except nav
 
-3. [Quote page](https://www.canva.com/design/DAFxbL4j8Ng/hxKioGYVg4cd2sLyGb0vRw/edit?utm_content=DAFxbL4j8Ng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+3. [Quote page](https://www.canva.com/design/DAFxbL4j8Ng/hxKioGYVg4cd2sLyGb0vRw/edit?utm_content=DAFxbL4j8Ng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
 
 4. [Website development subdomain](https://www.canva.com/design/DAFxbrKxU5k/UXjiyKU-5ftbe9PxpS5eMQ/edit?utm_content=DAFxbrKxU5k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
