@@ -14,9 +14,9 @@
 
 7. [SEO Packages and Pricing](https://www.canva.com/design/DAFxl3pmTqY/PQ1WMA0jPiayleVHcEBb5g/edit?utm_content=DAFxl3pmTqY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
 
-8. [audio visual design](https://www.canva.com/design/DAFxmPhkn8g/x20jSdQmPerxwyn43bqCXw/edit?utm_content=DAFxmPhkn8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+8. [audio visual design](https://www.canva.com/design/DAFxmPhkn8g/x20jSdQmPerxwyn43bqCXw/edit?utm_content=DAFxmPhkn8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
 
-9.  [Events Digital marketing design](https://www.canva.com/design/DAFxmgR8Uk8/9-bgKa0RMCWdPdJNQjvBsA/edit?utm_content=DAFxmgR8Uk8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+9.  [Events Digital marketing design](https://www.canva.com/design/DAFxmgR8Uk8/9-bgKa0RMCWdPdJNQjvBsA/edit?utm_content=DAFxmgR8Uk8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
 
 10. [campaign strategy subdomain](https://www.canva.com/design/DAFxnno9yDA/VQ9WmLwiLNkempURil_XYw/edit?utm_content=DAFxnno9yDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
 

@@ -21,6 +21,7 @@ import SocialMediaMarketing from './components/Subdomains/SocialMediaMarketing'
 import SocialMediaMarketingPricing from './components/Subdomains/SocialMediaMarketingPricing'
 import WebDevMaintenance from './components/Subdomains/WebDevMaintenance'
 import WebsiteDevPricing from './components/Subdomains/WebsiteDevPricing'
+import EventsDigitalMarketing from './components/Subdomains/EventsDigitalMarketing'
 
 function App() {
   
@@ -48,6 +49,7 @@ function App() {
     <Route path="/pricing/contentdevelopment" element={<Contdevsub />}></Route>
     <Route path="/pricing/seodataanalytics" element={<SeoDataAnalytics />}></Route>
     <Route path="/audiovisual" element={<AudioVisual />}></Route>
+    <Route path="/eventsdigitalmarketing" element={<EventsDigitalMarketing />}></Route>
     <Route path="/websitedevelopmentmaintenance" element={<WebDevMaintenance />}></Route>
     <Route path="/contentdevelopment" element={<ContentDevelopment />}></Route>
     <Route path="/campaignstrategy" element={<CampaignStrategy />}></Route>
