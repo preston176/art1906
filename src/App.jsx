@@ -45,11 +45,11 @@ function App() {
     <Route path='/socialmediamarketing' element={<SocialMediaMarketing />}></Route>
     <Route path='/pricing/socialmediamarketing' element={<SocialMediaMarketingPricing />}></Route>
     <Route path='/pricing/websitedevelopmentmaintenance' element={<WebsiteDevPricing />}></Route>
+    <Route path="/pricing/contentdevelopment" element={<Contdevsub />}></Route>
+    <Route path="/pricing/seodataanalytics" element={<SeoDataAnalytics />}></Route>
     <Route path="/audiovisual" element={<AudioVisual />}></Route>
     <Route path="/websitedevelopmentmaintenance" element={<WebDevMaintenance />}></Route>
-    <Route path="/seodataanalytics" element={<SeoDataAnalytics />}></Route>
     <Route path="/contentdevelopment" element={<ContentDevelopment />}></Route>
-    <Route path="/contentdevpricing" element={<Contdevsub />}></Route>
     <Route path="/campaignstrategy" element={<CampaignStrategy />}></Route>
     </Routes>
     </BrowserRouter>
