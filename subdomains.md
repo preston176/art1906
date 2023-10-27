@@ -6,7 +6,7 @@
 
 3. [Quote page](https://www.canva.com/design/DAFxbL4j8Ng/hxKioGYVg4cd2sLyGb0vRw/edit?utm_content=DAFxbL4j8Ng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
 
-4. [Website development subdomain](https://www.canva.com/design/DAFxbrKxU5k/UXjiyKU-5ftbe9PxpS5eMQ/edit?utm_content=DAFxbrKxU5k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+4. [Website development subdomain](https://www.canva.com/design/DAFxbrKxU5k/UXjiyKU-5ftbe9PxpS5eMQ/edit?utm_content=DAFxbrKxU5k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done except nav
 
 5. [Website development and Maintenance Pricing subdomain](https://www.canva.com/design/DAFxbthSXnE/7oOkiEEU1uZSqpHzz1sPAA/edit?utm_content=DAFxbthSXnE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 

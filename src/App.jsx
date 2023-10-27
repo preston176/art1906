@@ -19,6 +19,7 @@ import CampaignStrategy from './components/Subdomains/CampaignStrategy'
 import RequestAQuote from './components/Subdomains/RequestAQuote'
 import SocialMediaMarketing from './components/Subdomains/SocialMediaMarketing'
 import SocialMediaMarketingPricing from './components/Subdomains/SocialMediaMarketingPricing'
+import WebDevMaintenance from './components/Subdomains/WebDevMaintenance'
 
 function App() {
   
@@ -43,6 +44,7 @@ function App() {
     <Route path='/socialmediamarketing' element={<SocialMediaMarketing />}></Route>
     <Route path='/pricing/socialmediamarketing' element={<SocialMediaMarketingPricing />}></Route>
     <Route path="/audiovisual" element={<AudioVisual />}></Route>
+    <Route path="/websitedevelopmentmaintenance" element={<WebDevMaintenance />}></Route>
     <Route path="/seodataanalytics" element={<SeoDataAnalytics />}></Route>
     <Route path="/contentdevelopment" element={<ContentDevelopment />}></Route>
     <Route path="/contentdevpricing" element={<Contdevsub />}></Route>
