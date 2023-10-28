@@ -18,7 +18,7 @@ function CampaignStrategyPricing() {
     </ul></div>
   </div>
   <div className="head__container">
-    <img src="/seodata.png" alt="" />
+    <img src="/campaignstrategy.png" alt="" />
     <h3>Campaign Strategy</h3>
   </div>
   <div className="pg__container">
