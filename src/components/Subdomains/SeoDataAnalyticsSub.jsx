@@ -20,7 +20,7 @@ function SeoDataAnalyticsSub() {
   </div>
   
   <div className="heading__container">
-    <img src="/smm.png" alt="" />
+    <img src="/seodata.png" alt="" />
     <h3>SEO and Data Analytics</h3>
   </div>
   <p className='cont__text'>
@@ -28,7 +28,7 @@ function SeoDataAnalyticsSub() {
   </p>
   <div className="section__container">
     <div className="section">
-        <div className="img"><img src="/ind_research.png" alt="" /></div>
+        <div className="img"><img src="/traffic_analysis.png" alt="" /></div>
         <div className="section__desc">
             <h5>Traffic Analysis & Review</h5>
         <p>Our team meticulously evaluates your website's traffic, assessing its value and identifying opportunities for enhancement. We analyze key metrics such as time spent on site and conversions to gain insights into user behavior and improve your website's performance.</p>
@@ -36,7 +36,7 @@ function SeoDataAnalyticsSub() {
     </div>
 
     <div className="section">
-        <div className="img"><img src="/social_media_strategy.png" alt="" /></div>
+        <div className="img"><img src="/website_technical_audit.png" alt="" /></div>
         <div className="section__desc">
             <h5>Website Technical Audit</h5>
         <p>Our team provides a thorough evaluation of your website's technical components to identify areas that need improvement. Our primary focus is on optimizing loading speed, fixing broken links, ensuring mobile-friendliness, and other crucial elements.</p>
@@ -44,7 +44,7 @@ function SeoDataAnalyticsSub() {
     </div>
 
     <div className="section">
-        <div className="img"><img src="/inbound_marketing.png" alt="" /></div>
+        <div className="img"><img src="/keyword_research.png" alt="" /></div>
         <div className="section__desc">
             <h5>Keyword Research, Mapping & Reporting</h5>
         <p>Keyword Research and Optimization: Driving Relevant Traffic to Your Website
@@ -53,21 +53,21 @@ Our team conducts in-depth research to identify the most effective keywords for 
     </div>
 
     <div className="section">
-        <div className="img"><img src="/cost_effective_marketing.png" alt="" /></div>
+        <div className="img"><img src="/off_page_optimization.png" alt="" /></div>
         <div className="section__desc">
             <h5>Off-Page Optimization & Brand Reputation Management</h5>
         <p>Our comprehensive off-page optimization services ensure an impeccable online presence. We monitor and manage your business directory listings, and optimize your Google My Business listing, which includes initial setup if needed.</p>
         </div>
     </div>
     <div className="section">
-        <div className="img"><img src="/increased_marketing_and_conversions.png" alt="" /></div>
+        <div className="img"><img src="/content_marketing.png" alt="" /></div>
         <div className="section__desc">
             <h5>Content Marketing</h5>
         <p>Our team specializes in creating custom content marketing strategies that cater to your business objectives. We'll develop captivating and informative materials, including blog posts, articles, infographics, and videos, that appeal to your intended audience. This will not only help increase organic traffic but establish your business's credibility as a thought leader in your industry.</p>
         </div>
     </div>
     <div className="section">
-        <div className="img"><img src="/increased_marketing_and_conversions.png" alt="" /></div>
+        <div className="img"><img src="/regular_reporting.png" alt="" /></div>
         <div className="section__desc">
             <h5>Regular Reporting</h5>
         <p>We take transparency and accountability very seriously. For this reason, we provide you with detailed quarterly reports that outline the actions taken, progress made, and metrics that track the results achieved. These reports offer valuable insights into the performance of your digital marketing efforts and serve as a foundation for data-driven decision-making.</p>
