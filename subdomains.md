@@ -16,11 +16,11 @@
 
 8. [audio visual design](https://www.canva.com/design/DAFxmPhkn8g/x20jSdQmPerxwyn43bqCXw/edit?utm_content=DAFxmPhkn8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
 
-9.  [Events Digital marketing design](https://www.canva.com/design/DAFxmgR8Uk8/9-bgKa0RMCWdPdJNQjvBsA/edit?utm_content=DAFxmgR8Uk8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
+9.  [Events Digital marketing design](https://www.canva.com/design/DAFxmgR8Uk8/9-bgKa0RMCWdPdJNQjvBsA/edit?utm_content=DAFxmgR8Uk8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done except nav
 
 10. [campaign strategy subdomain](https://www.canva.com/design/DAFxnno9yDA/VQ9WmLwiLNkempURil_XYw/edit?utm_content=DAFxnno9yDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
 
-11. [Campaign strategy pricing](https://www.canva.com/design/DAFxstakO-k/H84zjxZxSc7oE22NMWBIRA/edit?utm_content=DAFxstakO-k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+11. [Campaign strategy pricing](https://www.canva.com/design/DAFxstakO-k/H84zjxZxSc7oE22NMWBIRA/edit?utm_content=DAFxstakO-k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
 
 12. [Audio Visual Suite Pricing](https://www.canva.com/design/DAFyEaFGGlM/_vv9Jk1Pwj_r2SQZTJSsng/edit?utm_content=DAFyEaFGGlM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
 
