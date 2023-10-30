@@ -10,7 +10,7 @@
 
 5. [Website development and Maintenance Pricing subdomain](https://www.canva.com/design/DAFxbthSXnE/7oOkiEEU1uZSqpHzz1sPAA/edit?utm_content=DAFxbthSXnE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done except nav
 
-6. [SEO and Data analytics Subdomain design](https://www.canva.com/design/DAFxg3P3m7I/LW-knrL0A06jxCx8ekWOJQ/edit?utm_content=DAFxg3P3m7I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+6. [SEO and Data analytics Subdomain design](https://www.canva.com/design/DAFxg3P3m7I/LW-knrL0A06jxCx8ekWOJQ/edit?utm_content=DAFxg3P3m7I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
 
 7. [SEO Packages and Pricing](https://www.canva.com/design/DAFxl3pmTqY/PQ1WMA0jPiayleVHcEBb5g/edit?utm_content=DAFxl3pmTqY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
 
