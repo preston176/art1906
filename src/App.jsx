@@ -25,6 +25,7 @@ import EventsDigitalMarketing from './components/Subdomains/EventsDigitalMarketi
 import CampaignStrategyPricing from './components/Subdomains/CampaignStrategyPricing'
 import SeoDataAnalyticsSub from './components/Subdomains/SeoDataAnalyticsSub'
 import MediaBuyingSub from './components/Subdomains/MediaBuyingSub'
+import MediaBuyingPricing from './components/Subdomains/MediaBuyingPricing'
 
 function App() {
   
@@ -54,6 +55,7 @@ function App() {
     <Route path="/pricing/contentdevelopment" element={<Contdevsub />}></Route>
     <Route path="/pricing/seodataanalytics" element={<SeoDataAnalytics />}></Route>
     <Route path="/pricing/campaignstrategy" element={<CampaignStrategyPricing />}></Route>
+    <Route path="/pricing/mediabuying" element={<MediaBuyingPricing />}></Route>
     <Route path="/audiovisual" element={<AudioVisual />}></Route>
     <Route path="/eventsdigitalmarketing" element={<EventsDigitalMarketing />}></Route>
     <Route path="/websitedevelopmentmaintenance" element={<WebDevMaintenance />}></Route>

@@ -1,0 +1,41 @@
+.list {
+  min-width: 40%;
+  max-width: 60%;
+  margin: auto;
+}
+
+.head {
+  min-width: 40%;
+  max-width: 60%;
+  margin: auto;
+  color: #b18b72;
+  font-weight: bolder;
+}
+
+.youtube__section h2 {
+  min-width: 50%;
+  max-width: 60%;
+  margin: auto;
+  color: #b18b72;
+}
+
+.parag_cont {
+  min-width: 40%;
+  max-width: 60%;
+  margin: auto;
+  color: black;
+}
+
+.goog__search {
+  min-width: 40%;
+  max-width: 60%;
+  margin: auto;
+}
+
+.goog__search > h3 {
+  color: #b18b72;
+}
+
+.list__ul li {
+  font-style: italic;
+}

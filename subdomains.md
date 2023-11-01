@@ -32,4 +32,4 @@
 
 16. [Media Buying Subdomain](https://www.canva.com/design/DAFyFESuK4Y/F1y_8bFpSI-CbK2dZ5553w/edit?utm_content=DAFyFESuK4Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done no pics
 
-17. [Media Buying Pricing and Packages](https://www.canva.com/design/DAFyFihE3sQ/eS_D1yUD6fQZ9cqhdNns-A/edit?utm_content=DAFyFihE3sQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+17. [Media Buying Pricing and Packages](https://www.canva.com/design/DAFyFihE3sQ/eS_D1yUD6fQZ9cqhdNns-A/edit?utm_content=DAFyFihE3sQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done
