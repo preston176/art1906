@@ -26,6 +26,7 @@ import CampaignStrategyPricing from './components/Subdomains/CampaignStrategyPri
 import SeoDataAnalyticsSub from './components/Subdomains/SeoDataAnalyticsSub'
 import MediaBuyingSub from './components/Subdomains/MediaBuyingSub'
 import MediaBuyingPricing from './components/Subdomains/MediaBuyingPricing'
+import NotFound from './components/NotFound'
 
 function App() {
   
@@ -61,6 +62,7 @@ function App() {
     <Route path="/websitedevelopmentmaintenance" element={<WebDevMaintenance />}></Route>
     <Route path="/contentdevelopment" element={<ContentDevelopment />}></Route>
     <Route path="/campaignstrategy" element={<CampaignStrategy />}></Route>
+    <Route path="/*" element={<NotFound />}></Route>
     </Routes>
     </BrowserRouter>
     

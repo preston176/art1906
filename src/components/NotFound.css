@@ -1,0 +1,43 @@
+.not__found__logo {
+  text-align: center;
+  color: black;
+}
+
+.not__found__logo img {
+  width: 600px;
+}
+
+.not__found__desc {
+  max-width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+.reasons {
+  width: 30%;
+  color: black;
+  margin: auto;
+  text-align: left;
+}
+
+.reasons ul > li {
+  list-style-image: url(/list__style.png);
+  align-self: baseline;
+}
+
+.reasons li {
+  line-height: 2.5rem;
+  color: black;
+}
+
+.other__desc p {
+  text-align: center;
+  width: 50%;
+  color: black;
+  margin: auto;
+}
+.further__desc {
+  padding-top: 2rem;
+  color: black;
+  padding-bottom: 2rem;
+}
