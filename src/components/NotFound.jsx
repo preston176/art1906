@@ -4,7 +4,7 @@ import Footer from './Footer'
 
 function NotFound() {
   return (
-    <div>
+    <div className='notFound__container'>
        <div className="nav">
           <div className="l__side">
             Art <span>1906</span>_ <br />Creative Shops
