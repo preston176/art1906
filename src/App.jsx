@@ -27,45 +27,47 @@ import SeoDataAnalyticsSub from './components/Subdomains/SeoDataAnalyticsSub'
 import MediaBuyingSub from './components/Subdomains/MediaBuyingSub'
 import MediaBuyingPricing from './components/Subdomains/MediaBuyingPricing'
 import NotFound from './components/NotFound'
+import NewsletterSubscribed from './components/Pages/NewsletterSubscribed'
 
 function App() {
-  
+
 
   return (
     <BrowserRouter>
-    <Routes>
-      {/* Homepage */}
-      <Route path='/' element={<>
-      <Home />
-   
-      <Section1 />
-      <Section2 />
-      <Section3 />
-      <LatestBlogs />
-      <ContactUs />
-      <StartConvo />
-      <Footer />
-    </>}></Route>
-    {/* Subdomains */}
-    <Route path='/requestaquote' element={<RequestAQuote />}></Route>
-    <Route path='/socialmediamarketing' element={<SocialMediaMarketing />}></Route>
-    <Route path='/seodataanalytics' element={<SeoDataAnalyticsSub />}></Route>
-    <Route path='/mediabuying' element={<MediaBuyingSub />}></Route>
-    <Route path='/pricing/socialmediamarketing' element={<SocialMediaMarketingPricing />}></Route>
-    <Route path='/pricing/websitedevelopmentmaintenance' element={<WebsiteDevPricing />}></Route>
-    <Route path="/pricing/contentdevelopment" element={<Contdevsub />}></Route>
-    <Route path="/pricing/seodataanalytics" element={<SeoDataAnalytics />}></Route>
-    <Route path="/pricing/campaignstrategy" element={<CampaignStrategyPricing />}></Route>
-    <Route path="/pricing/mediabuying" element={<MediaBuyingPricing />}></Route>
-    <Route path="/audiovisual" element={<AudioVisual />}></Route>
-    <Route path="/eventsdigitalmarketing" element={<EventsDigitalMarketing />}></Route>
-    <Route path="/websitedevelopmentmaintenance" element={<WebDevMaintenance />}></Route>
-    <Route path="/contentdevelopment" element={<ContentDevelopment />}></Route>
-    <Route path="/campaignstrategy" element={<CampaignStrategy />}></Route>
-    <Route path="/*" element={<NotFound />}></Route>
-    </Routes>
+      <Routes>
+        {/* Homepage */}
+        <Route path='/' element={<>
+          <Home />
+
+          <Section1 />
+          <Section2 />
+          <Section3 />
+          <LatestBlogs />
+          <ContactUs />
+          <StartConvo />
+          <Footer />
+        </>}></Route>
+        {/* Subdomains */}
+        <Route path='/requestaquote' element={<RequestAQuote />}></Route>
+        <Route path='/socialmediamarketing' element={<SocialMediaMarketing />}></Route>
+        <Route path='/seodataanalytics' element={<SeoDataAnalyticsSub />}></Route>
+        <Route path='/mediabuying' element={<MediaBuyingSub />}></Route>
+        <Route path='/pricing/socialmediamarketing' element={<SocialMediaMarketingPricing />}></Route>
+        <Route path='/pricing/websitedevelopmentmaintenance' element={<WebsiteDevPricing />}></Route>
+        <Route path="/pricing/contentdevelopment" element={<Contdevsub />}></Route>
+        <Route path="/pricing/seodataanalytics" element={<SeoDataAnalytics />}></Route>
+        <Route path="/pricing/campaignstrategy" element={<CampaignStrategyPricing />}></Route>
+        <Route path="/pricing/mediabuying" element={<MediaBuyingPricing />}></Route>
+        <Route path="/audiovisual" element={<AudioVisual />}></Route>
+        <Route path="/eventsdigitalmarketing" element={<EventsDigitalMarketing />}></Route>
+        <Route path="/websitedevelopmentmaintenance" element={<WebDevMaintenance />}></Route>
+        <Route path="/contentdevelopment" element={<ContentDevelopment />}></Route>
+        <Route path="/campaignstrategy" element={<CampaignStrategy />}></Route>
+        <Route path="/*" element={<NotFound />}></Route>
+        <Route path="/subscribed" element={<NewsletterSubscribed />}></Route>
+      </Routes>
     </BrowserRouter>
-    
+
   )
 }
 

@@ -1,0 +1,60 @@
+.newsletter__logo {
+  text-align: center;
+}
+
+.newsletter__logo img {
+  margin-top: 5rem;
+  width: 200px;
+}
+
+.paragraph__newsletter p {
+  width: 50%;
+  margin: auto;
+  color: black;
+}
+
+.in__case {
+  background: #474747;
+  color: white;
+  padding: 0.5rem;
+}
+
+.in__case__container {
+  display: flex;
+  gap: 1rem;
+}
+
+.ldiv img {
+  width: 600px;
+}
+
+.rdiv h4 {
+  text-decoration: underline;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-between;
+}
+.button__quote button {
+  border: 1px solid white;
+  background: none;
+  color: white;
+  margin-top: 0.8rem;
+  padding: 1rem 1.5rem;
+}
+
+.newsletter__btn {
+  text-align: center;
+}
+
+.newsletter__btn button {
+  background-color: #af7734;
+  color: white;
+  font-weight: bold;
+  padding: 1rem 0.8rem;
+  border-radius: 0.5rem;
+  border: none;
+  outline: none;
+  margin: 1rem;
+}
